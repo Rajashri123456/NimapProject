@@ -9,7 +9,7 @@ Steps to Run the Code :
      bash
      mvn spring-boot:run
      2] Run the NimapProjectApplication.java and NimapProject1Application.java
-     2]Verified the application ran successfully on http://localhost:8080.
+     3]Verified the application ran successfully on http://localhost:8080.
 
 3]API Testing :
   1] Used Postman to test all endpoints, including:
